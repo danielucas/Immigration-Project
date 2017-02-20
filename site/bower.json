@@ -1,0 +1,13 @@
+{
+  "name": "Immigration",
+  "homepage": "github.com/team-hair/hair-shampoo-and-rinse.git/",
+  "authors": [
+    "team Hair <curly@team-hair.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.0",
+    "include-media": "^1.4.8"
+  }
+}

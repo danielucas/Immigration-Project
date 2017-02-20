@@ -1,0 +1,22 @@
+.form-group {
+	transition: opacity 0.5s;
+
+	&.disabled {
+		opacity: 0.5;
+
+		*:hover  {
+			cursor: default;
+		}
+	}
+}
+
+select {
+
+	&.form-control {
+		-webkit-appearance: none;
+	}
+
+	&:hover {
+		cursor: pointer;
+	}
+}

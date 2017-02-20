@@ -1,0 +1,36 @@
+/**
+ * Color Hover Utilites
+ */
+$colors:
+
+	(black	$black),
+	(white 	$white),
+;
+
+@each 
+	$name, 
+	$value
+	
+	in $colors {
+	
+	.t-#{$name} {
+		color: $value;
+	}
+
+	.bg-#{$name} {
+		background: $value;
+	}
+
+	.h-#{$name}:hover,
+	.h-#{$name}:focus,
+	.h-#{$name}:active {
+		color: $value;
+	}
+
+	.hbg-#{$name}:hover,
+	.hbg-#{$name}:focus,
+	.hbg-#{$name}:active {
+		background: $value;
+	}
+	
+}

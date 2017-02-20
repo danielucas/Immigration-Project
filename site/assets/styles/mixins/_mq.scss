@@ -1,0 +1,23 @@
+@mixin grid-media-query($size) {
+	@if $size == xs {
+		@media(max-width: $screen-xs-max){
+			@content;
+		}
+	}
+	@if $size == sm {
+		@media(min-width: $screen-sm-min){
+			@content;
+		}
+	}
+	@if $size == md {
+		@media(min-width: $screen-md-min){
+			@content;
+		}
+	}
+	@if $size == lg {
+		@media(min-width: $screen-lg-min){
+			@content;
+		}
+	}
+
+}

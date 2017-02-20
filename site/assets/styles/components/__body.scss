@@ -1,0 +1,10 @@
+body,
+html {
+	font-size: $font-size-root;
+
+	&.no-scroll {
+		overflow: hidden;
+		position: fixed;
+	}
+
+}

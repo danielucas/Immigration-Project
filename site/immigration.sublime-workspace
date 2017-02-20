@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"recip",
+				"recipient_email"
+			],
+			[
+				"oj_ca",
+				"oj_career_form_processing"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"modal",
+				"modalContent"
+			],
+			[
+				"current_user",
+				"wp_get_current_user\tWP Function"
+			],
+			[
+				"shipping_meth",
+				"shipping_method_hidden"
+			],
+			[
+				"tumbl",
+				"tumblr_posts"
+			],
+			[
+				"font-f",
+				"font-family-sans-serif"
+			],
+			[
+				"get_template_",
+				"get_template_directory_uri\tWP Function"
+			],
+			[
+				"viewd",
+				"viewed_products"
+			],
+			[
+				"cont",
+				"contactPref"
+			],
+			[
+				"reset_p",
+				"wp_reset_postdata\tWP Function"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"let",
+				"letter-spacing-sans"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"get_the_post",
+				"get_the_post_thumbnail\tWP Function"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"grid",
+				"grid-gutter-width"
+			],
+			[
+				"gri",
+				"grid-gutter-width"
+			],
+			[
+				"gray",
+				"gray-light"
+			],
+			[
+				"b",
+				"bdc\tborder-color"
+			],
+			[
+				"footer",
+				"footerSize"
+			],
+			[
+				"outer",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"elsei",
+				"elseif"
+			],
+			[
+				"sub",
+				"subprojects"
+			],
+			[
+				"medi",
+				"media_slider"
+			],
+			[
+				"cvI",
+				"cvItem"
+			],
+			[
+				"get_templ",
+				"get_template_part"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"line",
+				"line-through"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wood",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: s",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Build: New Build System"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install package: colorsublime",
+			"install package",
+			"package control: install package",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Samson/Personal/Web/How We Got Here/Website/site"
+	],
+	"file_history":
+	[
+		"/Volumes/Samson/Personal/Web/How We Got Here/Website/site/immigration",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo/ajax-forms.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/form-edit-address.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/class-wc-form-handler.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/class-wc-query.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/ajax-accountedit.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_custom/ajax-forms.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/templates/myaccount/form-edit-address.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo/dequeue.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/form-edit-account.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/edit-accountinfo.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/product-relatedrecently.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/form-career-attachments.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/checkout-main.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/booking.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/ajax-lostpass.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/ajax-createcoupon.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/modals.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/ajax-addtocart.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/sidebar-about.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/gift-card.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/register.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/gift-card-login.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/booking.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/booking-login.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/form-loginregister.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/giftcard-login.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/giftcard.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/giftcard-form.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/booking-login.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_custom/oj/shortcodes.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/booking-pre-register.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/pre-register.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/gift-card-pre-register.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/templates/myaccount/form-edit-account.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/wc-template-hooks.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo/functions.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_custom/oj/careers.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/orders.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/content-press.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/dashboard.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/payment-methods.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo/account-navigation.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/account-edit-address.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/selects-selectric.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/common/_variables/colors.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/sidebar/account.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo/account-appointment-endpoint.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/sidebar/about.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/template-about.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/footer/credits.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/archive-press.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_custom/oj/booking.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/header.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/appointments.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/setup.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo/customer-detail-fields.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo/account-fields.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-my-account.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/admin/class-wc-admin-settings.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/manifest.json",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/main.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/base.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/footer.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/dashboard-addresses.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/my-address.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/checkout/form-checkout.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/checkout/form-login.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/header/nav.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/header/actions.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions/ajax-loginregister.js",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/careers.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/career-form.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/forms/login.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/post-navigation.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/post/post-navigation.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/post-archive.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/sidebar/posts.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/footer/instagram.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/press-archive.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/single-product/title.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/product-addtocart.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/sidebar-lists.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/sidebar.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/components/__body.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/services/extra-info.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/notifications/popup.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/searchform.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/footer-actions.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/search-form.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/sidebar.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/services-modal.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/myaccount/my-account.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/account-create.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/footer/actions.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/search.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/career-page.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/single-product/short-description.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/product-data.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/_nav-header.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/footer/giftcallout.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts/footer-giftcallout.scss",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/content-product-editorial.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates/content.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_custom/_mcsignup/mcsignup.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/email-order-items.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/email-order-details.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/email-customer-details.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/email-addresses.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/customer-reset-password.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-reset-password.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/customer-refunded-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-refunded-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-processing-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/customer-processing-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/customer-invoice.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-on-hold-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/customer-on-hold-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/customer-new-account.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-new-account.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-invoice.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-email-signup.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/customer-completed-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/customer-completed-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/admin-failed-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/admin-failed-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/plain/admin-cancelled-order.php",
+		"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce/emails/admin-cancelled-order.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/templates/myaccount",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/emails",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/emails",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes//emails",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes/*",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/plugins/woocommerce/includes",
+			"<current file>",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/woocommerce",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/templates",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib/_woo",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles/layouts",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/scripts/functions",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/lib",
+			"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/assets/styles",
+			"<current file>",
+			"/Users/daniel/Work/Liz Glynn/Wordpress/app/themes/glynn",
+			"",
+			"/Users/daniel/Work/Liz Glynn/Wordpress/app/themes/glynn",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"edit-address",
+			"load_address",
+			"write_log",
+			"edit-",
+			"edit-address",
+			"console",
+			"response",
+			"phone",
+			"_address",
+			")address",
+			"address",
+			"save_account_details",
+			"edit_address",
+			"?>",
+			"select",
+			"wp_enqueue_script",
+			"enque",
+			"upcoming",
+			"grey",
+			"#faeae6",
+			"search",
+			"save_account_details",
+			"ajax",
+			"cart_page",
+			"type",
+			"add_action",
+			"display",
+			"FBDFDC",
+			"send_transactional_email",
+			"woocommerce_reset_password_notification",
+			"email",
+			"WC_Email",
+			"wc_email ",
+			"woocommerce_order_status_",
+			"status",
+			"send_transactional_email",
+			"woocommerce_email_classes",
+			"action",
+			"woocommerce_email_footer",
+			"do_action(woocommerce_order_status_completed_notification)",
+			"do_action",
+			"order_id",
+			"status",
+			"woocommerce_order_status_completed_notification",
+			"do_action( 'woocommerce_order_status_completed_notification",
+			"do_action",
+			"recipient",
+			"booked",
+			"16",
+			"body )",
+			"esc_attr( $body )",
+			"body",
+			"600",
+			"width",
+			"WC_Shortcode_My_Account",
+			"hair_share",
+			"15px",
+			"wc_ajax_cart_quantity",
+			"qty",
+			"text-xs",
+			"oj_hide_modals",
+			"hr ",
+			"<hr",
+			"info",
+			"ob_start",
+			"30",
+			"15",
+			"contact",
+			"fields",
+			"billing",
+			"modal",
+			"uppercase",
+			"label",
+			"theme_ajax",
+			"lost_pass",
+			"lost_pass_callback",
+			"0",
+			"ajax_auth_object",
+			"remove",
+			"date",
+			"console.log",
+			")\n",
+			"FCD3CC",
+			"get_ajax_cart_qty",
+			"use_ajax",
+			"$form",
+			"title",
+			"famil",
+			"form",
+			"F5F5F5",
+			".nav",
+			"end",
+			"uppercase",
+			"rc",
+			"jQuery",
+			"jQuery\t",
+			"j",
+			"$j",
+			"thisTerm",
+			"-lg",
+			"md-",
+			"close",
+			"center",
+			"transparent",
+			"size",
+			"ajax_create_coupon_code",
+			"whoops",
+			"ajax_login_object",
+			"fav",
+			"processing",
+			"proessing",
+			"maison",
+			"$",
+			"background",
+			"border-bott",
+			"coun",
+			"no",
+			"row",
+			"active",
+			"style_",
+			"version",
+			"save",
+			"call",
+			"acces",
+			"start",
+			"strong",
+			"404",
+			"make-sm-column"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"upcoming",
+			"$",
+			"loading",
+			"jQuery",
+			"em",
+			"templatesssss"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "immigration.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"slick",
+				"bower_components/slick-carousel/slick/slick.js"
+			],
+			[
+				"slick.js",
+				"bower_components/slick-carousel/slick/slick.js"
+			],
+			[
+				"base",
+				"base.php"
+			],
+			[
+				"setu",
+				"lib/setup.php"
+			],
+			[
+				"set",
+				"lib/setup.php"
+			],
+			[
+				"head",
+				"templates/head.php"
+			],
+			[
+				"setup",
+				"lib/setup.php"
+			],
+			[
+				"",
+				"templates/header-subnav.php"
+			],
+			[
+				"header.s",
+				"assets/styles/layouts/_header.scss"
+			],
+			[
+				"_header",
+				"assets/styles/layouts/_header.scss"
+			],
+			[
+				"entry",
+				"templates/entry-meta.php"
+			],
+			[
+				"index",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "wood",
+		"selected_items":
+		[
+			[
+				"wood",
+				"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/woodbury.sublime-project"
+			],
+			[
+				"w",
+				"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/woodbury.sublime-project"
+			],
+			[
+				"big",
+				"/Volumes/Samson/Client/Big Star Denim/Website/Wordpress/app/themes/bigstar/bigstar.sublime-project"
+			],
+			[
+				"vita",
+				"/Volumes/Samson/Client/! Vitamin A/Website/Wordpress/wp-content/themes/vitamin-a/vitamin-a.sublime-project"
+			],
+			[
+				"boo",
+				"/Volumes/Samson/Client/Boor Bridges/Website/Wordpress/app/themes/boorbridges/boorbridges.sublime-project"
+			],
+			[
+				"woo",
+				"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/woodbury.sublime-project"
+			],
+			[
+				"boor",
+				"/Volumes/Samson/Client/Boor Bridges/Website/Wordpress/app/themes/boorbridges/boorbridges.sublime-project"
+			],
+			[
+				"liz",
+				"/Volumes/Samson/Client/Liz Glynn/Website/Wordpress/app/themes/glynn/lizglynn.sublime-project"
+			],
+			[
+				"women",
+				"/Volumes/Samson/Client/Women & Whiskies/Website/Wordpress/app/themes/womenwhiskies/womenwhiskies.sublime-project"
+			],
+			[
+				"mais",
+				"/Volumes/Samson/Client/Maison Ray/Website/Wordpress/wp-content/themes/Maison Ray v2/maison ray.sublime-project"
+			],
+			[
+				"pal",
+				"/Volumes/Samson/Client/Paloma/Website/Wordpress/app/themes/paloma/paloma.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 413.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
