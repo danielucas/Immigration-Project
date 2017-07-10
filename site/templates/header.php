@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top navbar-light bg-white">
+<!-- <nav class="navbar fixed-top navbar-light bg-white">
   <div class="container">
 	<div class="row">
 		<div class="col-xl-12">
@@ -7,3 +7,4 @@
 	</div>
   </div>
 </nav>
+ -->

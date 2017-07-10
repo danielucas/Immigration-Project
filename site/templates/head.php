@@ -12,4 +12,6 @@
 	<link rel="dns-prefetch" href="//s.w.org">
 	<link rel="stylesheet" href="../dist/styles/main.css">
 
+	<?php include_once('lib/mysql.php'); ?>
+
 </head>
