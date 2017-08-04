@@ -3,8 +3,8 @@
 // contains two LatLng coordinates.
 
 var poly;
-var map;
-var iconBase = '../dist/images/_icons/';
+map;
+iconBase = '../dist/images/_icons/';
 
 function initMap() {
 
@@ -35,52 +35,4 @@ function initMap() {
  
 }
 
-function geocodeAddress(button, geocoder, map) {
-  var type      = button.parents('.form-group').attr('id');
-  var address   = document.getElementById(type+'-address').value;
-  var thisIcon  = type + '_icon.png';
-
-
-  geocoder.geocode({'address': address}, function(results, status) {
-    if (status === 'OK') {
-
-      //Get Location Vars
-      var location  = results[0].geometry.location;
-      var lat       = results[0].geometry.location.lat;
-      var lng       = results[0].geometry.location.lng;
-
-      //Set data attributes for hidden field
-      $('#'+type+'-coordinates').attr('data-name', address);
-      $('#'+type+'-coordinates').attr('data-lat', lat);
-      $('#'+type+'-coordinates').attr('data-lng', lng);
-
-
-      //Move Map Center
-      map.setCenter(location);
-  		
-  		// Because path is an MVCArray, we can simply append a new coordinate
-      // and it will automatically appear.
-      var path = poly.getPath();       
-      path.push({
-        lat: lat, 
-        lng: lng
-      });
-
-      // Add a new marker at the new plotted point on the polyline.
-      var marker = new google.maps.Marker({
-        position:  location,
-        title:     '#' + path.getLength(),
-        map:       map,
-        icon:      iconBase + thisIcon
-      });
-
-
-      //Allow movement to next section
-      $('#'+type).next('.disabled').removeClass('disabled').next('input.disabled').removeClass('disabled');
-            
-    } else {
-      alert('Geocode was not successful for the following reason: ' + status);
-    }
-  });
-}
 
